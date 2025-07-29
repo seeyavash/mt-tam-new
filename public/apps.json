@@ -18,7 +18,7 @@
         },
         "isRecommended": true,
         "downloadUrl": "https://play.google.com/store/apps/details?id=app.hiddify.com&hl=en",
-        "importScheme": "hiddify://import/{url}#VpShop-{username}",
+        "importScheme": "hiddify://import/{url}#{username}",
         "hasCustomSteps": false
       },
       {
@@ -34,7 +34,7 @@
         },
         "isRecommended": false,
         "downloadUrl": "https://github.com/2dust/v2rayNG/releases",
-        "importScheme": "v2rayng://install-config?url={url}&name=VpShop-{username}",
+        "importScheme": "v2rayng://install-config?url={url}&name={username}",
         "hasCustomSteps": false
       }
     ]
@@ -43,19 +43,41 @@
     "tutorialVideo": "https://www.youtube.com/watch?v=ios-tutorial",
     "apps": [
       {
+        "key": "hiddify",
+        "icon": {
+          "type": "image",
+          "value": "/icons/hiddify.svg"
+        },
+        "name": {
+          "en": "Hiddify",
+          "fa": "هیدیفای"
+        },
+        "tags": {
+          "en": ["Hiddify", "Recommended"],
+          "fa": ["هیدیفای", "پیشنهادی"]
+        },
+        "isRecommended": true,
+        "downloadUrl": "https://apps.apple.com/au/app/hiddify-proxy-vpn/id6596777532",
+        "importScheme": "hiddify://import/{url}#{username}",
+        "hasCustomSteps": false
+      },
+      {
         "key": "shadowrocket",
-        "icon": "🚀",
+        "icon":  {
+          "type": "image",
+          "value": "/icons/shadow.svg"
+        },
         "name": {
           "en": "Shadowrocket",
-          "fa": "شدورکت"
+          "fa": "شدوراکت"
         },
         "tags": {
           "en": ["Shadowrocket", "Recommended"],
-          "fa": ["شدورکت", "پیشنهادی"]
+          "fa": ["شدوراکت", "پیشنهادی"]
         },
         "isRecommended": true,
         "downloadUrl": "https://apps.apple.com/app/shadowrocket/id932747118",
-        "importScheme": "shadowrocket://add/{url}?remark=VpShop-{username}",
+        "importScheme": "shadowrocket://add/{url}?remark={username}",
         "hasCustomSteps": false
       },
       {
@@ -71,7 +93,7 @@
         },
         "isRecommended": false,
         "downloadUrl": "https://apps.apple.com/app/streisand/id6450534064",
-        "importScheme": "sing-box://import-remote-profile?url={url}#VpShop-{username}",
+        "importScheme": "sing-box://import-remote-profile?url={url}#{username}",
         "hasCustomSteps": false
       }
     ]
@@ -92,7 +114,7 @@
         },
         "isRecommended": true,
         "downloadUrl": "https://github.com/hiddify/hiddify-next/releases",
-        "importScheme": "hiddify://import/{url}#VpShop-{username}",
+        "importScheme": "hiddify://import/{url}#{username}",
         "hasCustomSteps": false
       },
       {
@@ -108,7 +130,7 @@
         },
         "isRecommended": false,
         "downloadUrl": "https://github.com/2dust/v2rayN/releases",
-        "importScheme": "v2rayn://add-servers?url={url}&name=VpShop-{username}",
+        "importScheme": "v2rayn://add-servers?url={url}&name={username}",
         "hasCustomSteps": false
       }
     ]
