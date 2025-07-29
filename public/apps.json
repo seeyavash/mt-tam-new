@@ -6,7 +6,7 @@
         "key": "hiddify",
         "icon": {
           "type": "image",
-          "value": "/icons/hiddify.png"
+          "value": "/icons/hiddify.svg"
         },
         "name": {
           "en": "Hiddify",
@@ -23,7 +23,7 @@
       },
       {
         "key": "v2rayng",
-        "icon": "/icons/v2rayng.png",
+        "icon": "/icons/v2rayng.svg",
         "name": {
           "en": "V2Ray NG",
           "fa": "وی تو ری ان جی"
