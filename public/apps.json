@@ -38,7 +38,7 @@
         "hasCustomSteps": false
       },
       {
-        "key": "v2RayTun",
+        "key": "v2raytun",
         "icon": "/icons/v2raytun.svg",
         "name": {
           "en": "v2RayTun",
@@ -122,11 +122,11 @@
         "icon": "🔐",
         "name": {
           "en": "Hiddify",
-          "fa": "هایدیفای"
+          "fa": "هیدیفای"
         },
         "tags": {
           "en": ["Hiddify", "Recommended"],
-          "fa": ["هایدیفای", "پیشنهادی"]
+          "fa": ["هیدیفای", "پیشنهادی"]
         },
         "isRecommended": true,
         "downloadUrl": "https://github.com/hiddify/hiddify-next/releases",
@@ -138,11 +138,11 @@
         "icon": "🛩️",
         "name": {
           "en": "V2RayN",
-          "fa": "وی تو ری ان"
+          "fa": "V2RayN"
         },
         "tags": {
           "en": ["V2RayN"],
-          "fa": ["وی تو ری ان"]
+          "fa": ["V2RayN"]
         },
         "isRecommended": false,
         "downloadUrl": "https://github.com/2dust/v2rayN/releases",
