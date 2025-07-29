@@ -19,11 +19,7 @@
         "isRecommended": true,
         "downloadUrl": "https://play.google.com/store/apps/details?id=app.hiddify.com&hl=en",
         "importScheme": "hiddify://import/{url}#{username}",
-        "hasCustomSteps": false,
-        "description": {
-          "en": "",
-          "fa": ""
-        }
+        "hasCustomSteps": false
       },
       {
         "key": "v2rayng",
