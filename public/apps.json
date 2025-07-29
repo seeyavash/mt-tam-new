@@ -50,7 +50,7 @@
         },
         "isRecommended": false,
         "downloadUrl": "https://play.google.com/store/apps/details?id=com.v2raytun.android&hl=fa",
-        "importScheme": "v2raytun://import-config?url={url}",
+        "importScheme": "v2raytun://import-config?url={url}#{username}",
         "hasCustomSteps": false
       }
     ]
