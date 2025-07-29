@@ -36,37 +36,6 @@
         "downloadUrl": "https://github.com/2dust/v2rayNG/releases",
         "importScheme": "v2rayng://install-config?url={url}&name=VpShop-{username}",
         "hasCustomSteps": false
-      },
-      {
-        "key": "streisand",
-        "icon": "https://example.com/icons/streisand.jpg",
-        "name": {
-          "en": "Streisand",
-          "fa": "استریسند"
-        },
-        "tags": {
-          "en": ["Streisand"],
-          "fa": ["استریسند"]
-        },
-        "isRecommended": false,
-        "downloadUrl": "https://github.com/xxf185/Streisand/releases",
-        "importScheme": "sing-box://import-remote-profile?url={url}#VpShop-{username}",
-        "hasCustomSteps": false
-      },
-      {
-        "key": "clash",
-        "icon": "⚔️",
-        "name": {
-          "en": "Clash",
-          "fa": "کلش"
-        },
-        "tags": {
-          "en": ["Clash"],
-          "fa": ["کلش"]
-        },
-        "isRecommended": false,
-        "downloadUrl": "https://github.com/Dreamacro/clash/releases",
-        "hasCustomSteps": true
       }
     ]
   },
@@ -87,22 +56,6 @@
         "isRecommended": true,
         "downloadUrl": "https://apps.apple.com/app/shadowrocket/id932747118",
         "importScheme": "shadowrocket://add/{url}?remark=VpShop-{username}",
-        "hasCustomSteps": false
-      },
-      {
-        "key": "fairvpn",
-        "icon": "🌐",
-        "name": {
-          "en": "FairVPN",
-          "fa": "فیرVPN"
-        },
-        "tags": {
-          "en": ["FairVPN"],
-          "fa": ["فیرVPN"]
-        },
-        "isRecommended": false,
-        "downloadUrl": "https://apps.apple.com/app/fairvpn/id1533873488",
-        "importScheme": "fairvpn://add-subscription?url={url}&name=VpShop-{username}",
         "hasCustomSteps": false
       },
       {
