@@ -36,6 +36,22 @@
         "downloadUrl": "https://github.com/2dust/v2rayNG/releases",
         "importScheme": "v2rayng://install-config?url={url}&name={username}",
         "hasCustomSteps": false
+      },
+      {
+        "key": "v2RayTun",
+        "icon": "/icons/v2raytun.svg",
+        "name": {
+          "en": "v2RayTun",
+          "fa": "v2RayTun"
+        },
+        "tags": {
+          "en": ["v2RayTun"],
+          "fa": ["v2RayTun"]
+        },
+        "isRecommended": false,
+        "downloadUrl": "https://play.google.com/store/apps/details?id=com.v2raytun.android&hl=fa",
+        "importScheme": "v2rayng://install-config?url={url}&name={username}",
+        "hasCustomSteps": false
       }
     ]
   },
