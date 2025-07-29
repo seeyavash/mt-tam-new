@@ -1,0 +1,169 @@
+{
+  "android": {
+    "tutorialVideo": "https://www.youtube.com/watch?v=android-tutorial",
+    "apps": [
+      {
+        "key": "hiddify",
+        "icon": {
+          "type": "image",
+          "value": "/icons/hiddify.svg"
+        },
+        "name": {
+          "en": "Hiddify",
+          "fa": "هایدیفای"
+        },
+        "tags": {
+          "en": ["Hiddify", "Recommended"],
+          "fa": ["هایدیفای", "پیشنهادی"]
+        },
+        "isRecommended": true,
+        "downloadUrl": "https://github.com/hiddify/hiddify-next/releases",
+        "importScheme": "hiddify://import/{url}#VpShop-{username}",
+        "hasCustomSteps": false
+      },
+      {
+        "key": "v2rayng",
+        "icon": "/icons/v2rayng.svg",
+        "name": {
+          "en": "V2Ray NG",
+          "fa": "وی تو ری ان جی"
+        },
+        "tags": {
+          "en": ["V2Ray NG"],
+          "fa": ["وی تو ری"]
+        },
+        "isRecommended": false,
+        "downloadUrl": "https://github.com/2dust/v2rayNG/releases",
+        "importScheme": "v2rayng://install-config?url={url}&name=VpShop-{username}",
+        "hasCustomSteps": false
+      },
+      {
+        "key": "streisand",
+        "icon": "https://example.com/icons/streisand.jpg",
+        "name": {
+          "en": "Streisand",
+          "fa": "استریسند"
+        },
+        "tags": {
+          "en": ["Streisand"],
+          "fa": ["استریسند"]
+        },
+        "isRecommended": false,
+        "downloadUrl": "https://github.com/xxf185/Streisand/releases",
+        "importScheme": "sing-box://import-remote-profile?url={url}#VpShop-{username}",
+        "hasCustomSteps": false
+      },
+      {
+        "key": "clash",
+        "icon": "⚔️",
+        "name": {
+          "en": "Clash",
+          "fa": "کلش"
+        },
+        "tags": {
+          "en": ["Clash"],
+          "fa": ["کلش"]
+        },
+        "isRecommended": false,
+        "downloadUrl": "https://github.com/Dreamacro/clash/releases",
+        "hasCustomSteps": true
+      }
+    ]
+  },
+  "ios": {
+    "tutorialVideo": "https://www.youtube.com/watch?v=ios-tutorial",
+    "apps": [
+      {
+        "key": "shadowrocket",
+        "icon": "🚀",
+        "name": {
+          "en": "Shadowrocket",
+          "fa": "شدورکت"
+        },
+        "tags": {
+          "en": ["Shadowrocket", "Recommended"],
+          "fa": ["شدورکت", "پیشنهادی"]
+        },
+        "isRecommended": true,
+        "downloadUrl": "https://apps.apple.com/app/shadowrocket/id932747118",
+        "importScheme": "shadowrocket://add/{url}?remark=VpShop-{username}",
+        "hasCustomSteps": false
+      },
+      {
+        "key": "fairvpn",
+        "icon": "🌐",
+        "name": {
+          "en": "FairVPN",
+          "fa": "فیرVPN"
+        },
+        "tags": {
+          "en": ["FairVPN"],
+          "fa": ["فیرVPN"]
+        },
+        "isRecommended": false,
+        "downloadUrl": "https://apps.apple.com/app/fairvpn/id1533873488",
+        "importScheme": "fairvpn://add-subscription?url={url}&name=VpShop-{username}",
+        "hasCustomSteps": false
+      },
+      {
+        "key": "streisand-ios",
+        "icon": "💫",
+        "name": {
+          "en": "Streisand",
+          "fa": "استریسند"
+        },
+        "tags": {
+          "en": ["Streisand"],
+          "fa": ["استریسند"]
+        },
+        "isRecommended": false,
+        "downloadUrl": "https://apps.apple.com/app/streisand/id6450534064",
+        "importScheme": "sing-box://import-remote-profile?url={url}#VpShop-{username}",
+        "hasCustomSteps": false
+      }
+    ]
+  },
+  "windows": {
+    "tutorialVideo": "https://www.youtube.com/watch?v=windows-tutorial",
+    "apps": [
+      {
+        "key": "hiddify-windows",
+        "icon": "🔐",
+        "name": {
+          "en": "Hiddify",
+          "fa": "هایدیفای"
+        },
+        "tags": {
+          "en": ["Hiddify", "Recommended"],
+          "fa": ["هایدیفای", "پیشنهادی"]
+        },
+        "isRecommended": true,
+        "downloadUrl": "https://github.com/hiddify/hiddify-next/releases",
+        "importScheme": "hiddify://import/{url}#VpShop-{username}",
+        "hasCustomSteps": false
+      },
+      {
+        "key": "v2rayn",
+        "icon": "🛩️",
+        "name": {
+          "en": "V2RayN",
+          "fa": "وی تو ری ان"
+        },
+        "tags": {
+          "en": ["V2RayN"],
+          "fa": ["وی تو ری ان"]
+        },
+        "isRecommended": false,
+        "downloadUrl": "https://github.com/2dust/v2rayN/releases",
+        "importScheme": "v2rayn://add-servers?url={url}&name=VpShop-{username}",
+        "hasCustomSteps": false
+      }
+    ]
+  },
+  "emergencyConfig": {
+    "url": "https://emergency-config-url.com/config",
+    "enabled": true
+  },
+  "supportLink": "https://t.me/support-channel",
+  "broadcastChannelLink": "https://t.me/broadcast-channel"
+}

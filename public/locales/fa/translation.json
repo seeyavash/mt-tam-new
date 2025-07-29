@@ -1,0 +1,76 @@
+{
+  "GB": "گیگابایت",
+  "usageBox": {
+    "serviceActive": "سرویس شما فعال است",
+    "serviceExpired": "سرویس منقضی شده",
+    "serviceOnHold": "در انتظار اتصال",
+    "serviceLimited": "محدودیت حجم",
+    "serviceDisabled": "سرویس غیرفعال",
+    "dataRemaining": "حجم باقیمانده",
+    "timeRemaining": "زمان باقیمانده",
+    "todayUsage": "مصرف امروز",
+    "yesterdayUsage": "مصرف دیروز",
+    "subscriptionEnd": "پایان اشتراک",
+    "shareLink": "دریافت لینک اشتراک گذاری",
+    "gigabyte": "گیگ",
+    "day": "روز",
+    "days": "روز",
+    "of": "از",
+    "loading": "درحال بارگذاری...",
+    "error": "خطا در بارگذاری داده‌ها",
+    "retry": "تلاش مجدد",
+    "totalUsage": "کل مصرف",
+    "unlimited": "نامحدود",
+    "expired": "منقضی شده",
+    "dataLimitReached": "حجم تمام شده"
+  },
+  "setupGuide": {
+    "title": "چطور استفاده کنم؟",
+    "description": "با استفاده از منو های زیر نسبت به سیستم عامل خود می توانید از اشتراک خود استفاده کنید.",
+    "clientSelection": "برنامه یا \"کلاینت\" مورد نظر خود را انتخاب کنید. پیشنهاد ما در جدول هر برنامه مشخص است.",
+    "additionalInfo": "اگر به توضیح اضافه نیاز داشته باشید در اینجا میتونیم در حد یکی دو خط اضافه کنیم که چیکار کنه.",
+    "warning": "اگر برای اتصال مشکلی دارید و پیدا آموزش مربوط به اپلیکیشن های {platform} رو مشاهده کنید",
+    "tutorialVideo": "ویدیو آموزش استفاده در {platform}",
+    "iPhone": "آیفون",
+    "Windows": "ویندوز",
+    "Android": "اندروید",
+    "downloadApp": "دانلود برنامه",
+    "addConfig": "افزودن کانفیگ در برنامه",
+    "downloadAppBtn": "دانلود برنامه",
+    "addConfigBtn": "افزودن"
+  },
+  "serviceInfo": {
+    "title": "مشخصات سرویس",
+    "serviceVolume": "حجم سرویس",
+    "lastServerUpdate": "آخرین آپدیت سرور",
+    "lastConnectedClient": "آخرین کلاینت متصل شده",
+    "lastConnectionTime": "آخرین زمان اتصال"
+  },
+  "configs": {
+    "title": "کانفیگ های من",
+    "description": "در اینجا شما به کانفیگ های خود به طور جداگانه دسترسی دارید که به شما امکان می دهد هر یک از آنها را از طریق کد QR به اشتراک بگذارید یا می توانید به سادگی همه آنها را با دکمه کپی همه کنید.",
+    "copyAll": "کپی همه",
+    "allCopied": "همه کپی شد",
+    "scan": "اسکن",
+    "copy": "کپی",
+    "copied": "کپی شد",
+    "viewAll": "مشاهده همه"
+  },
+  "footer": {
+    "emergencyTitle": "دریافت لینک اضطراری",
+    "emergencyDescription": "با این پروکسی تلگرام، در مواقع اضطراری میتونی ما رو در تلگرام پیدا کنی ...",
+    "support": "پشتیبانی",
+    "infoChannel": "کانال اطلاع رسانی"
+  },
+  "header": {
+    "title": "وی پی شاپ",
+    "themeToggle": "تغییر تم",
+    "languageToggle": "تغییر زبان"
+  },
+  "qrModal": {
+    "title": "کد QR",
+    "instruction": "این کد QR را با برنامه VPN خود اسکن کنید تا کانفیگ اضافه شود",
+    "copyConfig": "کپی کانفیگ",
+    "error": "تولید کد QR با خطا مواجه شد"
+  }
+}
