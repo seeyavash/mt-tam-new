@@ -17,7 +17,7 @@
           "fa": ["هیدیفای", "پیشنهادی"]
         },
         "isRecommended": true,
-        "downloadUrl": "https://github.com/hiddify/hiddify-next/releases",
+        "downloadUrl": "https://play.google.com/store/apps/details?id=app.hiddify.com&hl=en",
         "importScheme": "hiddify://import/{url}#VpShop-{username}",
         "hasCustomSteps": false
       },
