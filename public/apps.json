@@ -136,7 +136,7 @@
         },
         "isRecommended": true,
         "downloadUrl": "https://github.com/hiddify/hiddify-next/releases",
-        "importScheme": "hiddify://import/{url}#{username}",
+        "importScheme": "",
         "hasCustomSteps": false
       },
       {
@@ -155,7 +155,7 @@
         },
         "isRecommended": false,
         "downloadUrl": "https://github.com/2dust/v2rayN/releases",
-        "importScheme": "v2rayn://add-servers?url={url}&name={username}",
+        "importScheme": "",
         "hasCustomSteps": false
       }
     ]
