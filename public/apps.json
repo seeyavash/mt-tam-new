@@ -78,6 +78,22 @@
         "hasCustomSteps": false
       },
       {
+        "key": "v2raytun",
+        "icon": "/icons/v2raytun.svg",
+        "name": {
+          "en": "v2RayTun",
+          "fa": "v2RayTun"
+        },
+        "tags": {
+          "en": ["v2RayTun"],
+          "fa": ["v2RayTun"]
+        },
+        "isRecommended": false,
+        "downloadUrl": "https://apps.apple.com/us/app/v2raytun/id6476628951",
+        "importScheme": "v2raytun://import-config?url={url}#{username}",
+        "hasCustomSteps": false
+      },
+      {
         "key": "shadowrocket",
         "icon":  {
           "type": "image",
