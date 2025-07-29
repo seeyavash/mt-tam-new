@@ -85,11 +85,11 @@
         },
         "name": {
           "en": "Shadowrocket",
-          "fa": "شدوراکت"
+          "fa": "Shadowrocket"
         },
         "tags": {
           "en": ["Shadowrocket", "Recommended"],
-          "fa": ["شدوراکت", "پیشنهادی"]
+          "fa": ["Shadowrocket", "پیشنهادی"]
         },
         "isRecommended": true,
         "downloadUrl": "https://apps.apple.com/app/shadowrocket/id932747118",
