@@ -98,7 +98,10 @@
       },
       {
         "key": "streisand-ios",
-        "icon": "💫",
+        "icon": {
+          "type": "image",
+          "value": "/icons/hiddify.svg"
+        },
         "name": {
           "en": "Streisand",
           "fa": "استریسند"
@@ -119,7 +122,10 @@
     "apps": [
       {
         "key": "hiddify-windows",
-        "icon": "🔐",
+        "icon": {
+          "type": "image",
+          "value": "/icons/hiddify.svg"
+        },
         "name": {
           "en": "Hiddify",
           "fa": "هیدیفای"
@@ -135,7 +141,10 @@
       },
       {
         "key": "v2rayn",
-        "icon": "🛩️",
+        "icon": {
+          "type": "image",
+          "value": "/icons/v2rayng.svg"
+        },
         "name": {
           "en": "V2RayN",
           "fa": "V2RayN"
