@@ -72,5 +72,14 @@
     "instruction": "این کد QR را با برنامه VPN خود اسکن کنید تا کانفیگ اضافه شود",
     "copyConfig": "کپی کانفیگ",
     "error": "تولید کد QR با خطا مواجه شد"
+  },
+  "toasts": {
+    "themeChanged": "تم با موفقیت تغییر کرد",
+    "languageChanged": "زبان با موفقیت تغییر کرد",
+    "copied": "در کلیپ بورد کپی شد",
+    "copyFailed": "کپی کردن ناموفق بود",
+    "configCopied": "کانفیگ کپی شد",
+    "allConfigsCopied": "همه کانفیگ‌ها کپی شدند",
+    "linkCopied": "لینک در کلیپ بورد کپی شد"
   }
 }

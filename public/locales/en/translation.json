@@ -72,5 +72,14 @@
     "instruction": "Scan this QR code with your VPN app to add the configuration",
     "copyConfig": "Copy Configuration",
     "error": "QR Code generation failed"
+  },
+  "toasts": {
+    "themeChanged": "Theme changed successfully",
+    "languageChanged": "Language changed successfully",
+    "copied": "Copied to clipboard",
+    "copyFailed": "Failed to copy",
+    "configCopied": "Configuration copied",
+    "allConfigsCopied": "All configurations copied",
+    "linkCopied": "Link copied to clipboard"
   }
 }
