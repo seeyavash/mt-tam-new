@@ -33,7 +33,7 @@
           "fa": ["V2rayNG"]
         },
         "isRecommended": false,
-        "downloadUrl": "https://github.com/2dust/v2rayNG/releases",
+        "downloadUrl": "https://github.com/2dust/v2rayNG/releases/download/1.10.8/v2rayNG_1.10.8_arm64-v8a.apk",
         "importScheme": "v2rayng://install-config?url={url}&name={username}",
         "hasCustomSteps": false
       },
