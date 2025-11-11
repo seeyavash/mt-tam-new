@@ -14,7 +14,7 @@
         },
         "tags": {
           "en": ["Hiddify", "Recommended"],
-          "fa": ["هیدیفای", "پیشنهادی"]
+          "fa": ["هیدیفای"]
         },
         "isRecommended": true,
         "downloadUrl": "https://play.google.com/store/apps/details?id=app.hiddify.com&hl=en",
@@ -30,7 +30,7 @@
         },
         "tags": {
           "en": ["V2RayNG"],
-          "fa": ["V2rayNG"]
+          "fa": ["V2rayNG", "پیشنهادی"]
         },
         "isRecommended": false,
         "downloadUrl": "https://github.com/2dust/v2rayNG/releases/download/1.10.8/v2rayNG_1.10.8_arm64-v8a.apk",
@@ -70,7 +70,7 @@
         },
         "tags": {
           "en": ["Hiddify", "Recommended"],
-          "fa": ["هیدیفای", "پیشنهادی"]
+          "fa": ["هیدیفای"]
         },
         "isRecommended": true,
         "downloadUrl": "https://apps.apple.com/au/app/hiddify-proxy-vpn/id6596777532",
@@ -78,24 +78,24 @@
         "hasCustomSteps": false
       },
       {
-        "key": "v2raytun",
+        "key": "v2Box",
         "icon": "/icons/v2raytun.svg",
         "name": {
-          "en": "v2RayTun",
-          "fa": "v2RayTun"
+          "en": "v2Box",
+          "fa": "v2Box"
         },
         "tags": {
-          "en": ["v2RayTun"],
-          "fa": ["v2RayTun"]
+          "en": ["v2Box"],
+          "fa": ["v2Box", "پیشنهادی"]
         },
         "isRecommended": false,
-        "downloadUrl": "https://apps.apple.com/us/app/v2raytun/id6476628951",
+        "downloadUrl": "https://apps.apple.com/us/app/v2box-v2ray-client/id6446814690",
         "importScheme": "v2raytun://import-config?url={url}#{username}",
         "hasCustomSteps": false
       },
       {
         "key": "shadowrocket",
-        "icon":  {
+        "icon": {
           "type": "image",
           "value": "/icons/shadow.svg"
         },
